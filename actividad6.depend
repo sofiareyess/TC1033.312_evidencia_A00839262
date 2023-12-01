@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1701392303 source:c:\c++\actividad6\src\point.cpp
+	"point.h"
+
+1700881108 c:\c++\actividad6\include\point.h
+	<string>
+	<math.h>
+
+1701399623 source:c:\c++\actividad6\main.cpp
+	<iostream>
+	"triangle.h"
+	<string>
+	<stdlib.h>
+
+1701392310 c:\c++\actividad6\include\triangle.h
+	"point.h"
+
+1701398611 source:c:\c++\actividad6\src\triangle.cpp
+	"triangle.h"
+	<stdlib.h>
+
